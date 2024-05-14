@@ -1,0 +1,37 @@
+/* Estilos CSS para el diseño */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+.ce{
+    text-align: left;
+}
+.title {
+    text-align: center;
+    margin-bottom: 2px;
+}
+.author {
+    text-align: center;
+    margin-top: 0px;
+}
+.new-entry {
+    float: right;
+    margin-bottom: 10px;
+}
+.new-entry button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.derecha{
+    text-align: right;
+}
+.blog {
+    text-align: left;
+}
